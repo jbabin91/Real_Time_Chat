@@ -1,0 +1,15 @@
+{
+  "name": "real_time_chat",
+  "version": "1.0.0",
+  "description": "This is a basic real time chat app using node.js socket.io, and express.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jace Babin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1",
+    "socket.io": "^1.7.3"
+  }
+}
